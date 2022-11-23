@@ -55,7 +55,7 @@ public class vSanPham_repository {
     public static List<vSanPham> getAllVSP() {
         List<vSanPham> listVSP = new ArrayList();
         ResultSet rs;
-        String sql = "SELECT SANPHAM.ID, MASP, TENSP, SOLUONG, HINHANH, SIZE, MAUSAC, CHATLIEU, GIANHAP, GIABAN, IDLOAISP, MA, TEN,TRANGTHAI FROM SANPHAM JOIN LOAISANPHAM ON SANPHAM.IDLOAISP = LOAISANPHAM.ID";
+        String sql = "SELECT SANPHAM.ID, MASP, TENSP, SOLUONG, HINHANH, SIZE, MAUSAC, CHATLIEU, GIANHAP, GIABAN, IDLOAISP, MA, TEN,SANPHAM.TRANGTHAI FROM SANPHAM JOIN LOAISANPHAM ON SANPHAM.IDLOAISP = LOAISANPHAM.ID";
         rs = JDBC_Helper.selectTongQuat(sql);
         try {
             while (rs.next()) {
