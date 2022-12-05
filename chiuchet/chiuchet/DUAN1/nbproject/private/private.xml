@@ -12,21 +12,37 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/KHACHHANG_repository.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/Click/ChuyenManKH.java</file>
             <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/PhieuHoaDon_repository.java</file>
-            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_viewmodel/vDonDatHang.java</file>
-            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_viewmodel/vSanPham.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_service/Imp/ThongKeIplm.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/GioHangKH.java</file>
             <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/DangNhap.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_service/ThongKeService.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/SanPham_repository.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/Click/AutoClick.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/ThongKe.java</file>
             <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/DonDatHang.java</file>
             <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/QuanLySanPham.java</file>
             <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/LoaiSP.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/ViewQuanLy.java</file>
             <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/DBContext.java</file>
-            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/GioHang_repository.java</file>
             <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/SanPhamKH.java</file>
-            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/DBContext1.java</file>
-            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/PhieuHoaDon.java</file>
-            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/vSanPham_repository.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/Click/ChuyenManQL.java</file>
             <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/HoaDonDatHangRepository.java</file>
             <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/KhachHangView.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/Click/ThongKeController.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/DangKy.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/ThongKeRepository.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_viewmodel/vDonDatHang.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_utility/JDBC_Helper.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_viewmodel/vThongKe.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_viewmodel/vSanPham.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/LoaiSanPham_repository.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/ThongKePn.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/GioHang_repository.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_repository/DBContext1.java</file>
+            <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_view/PhieuHoaDon.java</file>
             <file>file:/C:/Users/TRAN%20VAN%20DUONG/OneDrive/Desktop/DuAn1_Nhom4/chiuchet/chiuchet/DUAN1/src/DuAnNhom4_viewmodel/vHoaDonDatHang.java</file>
         </group>
     </open-files>

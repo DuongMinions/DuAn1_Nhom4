@@ -7,6 +7,7 @@ package Click;
 import DuAnNhom4_view.DonDatHang;
 import DuAnNhom4_view.GioHangKH;
 import DuAnNhom4_view.SanPhamKH;
+import DuAnNhom4_view.ThongKePn;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.event.MouseEvent;
@@ -76,8 +77,8 @@ public class ChuyenManKH {
                 case "DonDatHang":
                     node = new DonDatHang();
                     break;
-                case "TrangChu":
-                    node = new SanPhamKH();
+                case "HoSoCaNhan":
+                    node = new ThongKePn();
                     break;
                 default:
                     node = new SanPhamKH();

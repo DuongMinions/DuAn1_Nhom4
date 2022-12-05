@@ -10,6 +10,7 @@ import DuAnNhom4_service.Imp.HoaDonDatHangIplm;
 import DuAnNhom4_viewmodel.vHoaDonDatHang;
 import DuAnNhom4_viewmodel.vPhieuHoaDon;
 import java.util.List;
+import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
 /**
@@ -154,6 +155,10 @@ public class DonDatHang extends javax.swing.JPanel {
 
     private void btnHuyDonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHuyDonActionPerformed
         // TODO add your handling code here:
+        int row = tbHoaDonDatHang.getSelectedRow();
+        vPhieuHoaDon pd = hd.getAll1().get(row);
+        JOptionPane.showMessageDialog(this, hd.delete(pd.getTENSP()));
+        loadData(hd.getAll1());
     }//GEN-LAST:event_btnHuyDonActionPerformed
 
     private void tbHoaDonDatHangMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tbHoaDonDatHangMouseClicked

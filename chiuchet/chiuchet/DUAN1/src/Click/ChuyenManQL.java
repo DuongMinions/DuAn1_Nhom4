@@ -5,6 +5,7 @@
 package Click;
 
 import DuAnNhom4_view.QuanLySanPham;
+import DuAnNhom4_view.ThongKePn;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.event.MouseEvent;
@@ -75,6 +76,9 @@ public class ChuyenManQL {
                     break;
                 case "QuanLyKhuyenMai":
                     node = new QuanLySanPham();
+                    break;
+                case "ThongKe":
+                    node = new ThongKePn();
                     break;
                 default: 
                     node = new QuanLySanPham();

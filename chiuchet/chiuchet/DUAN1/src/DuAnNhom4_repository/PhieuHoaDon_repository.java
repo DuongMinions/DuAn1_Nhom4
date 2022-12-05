@@ -111,7 +111,10 @@ public class PhieuHoaDon_repository {
         return JDBC_Helper.updateTongQuat(sql, vhd.getTENNGUOINHAN(), vhd.getDIACHI(), vhd.getSDT(),
                 vhd.getTRANGTHAI(), vhd.getPHUOWNGTHUCTHANHTOAN(), vhd.getID());
     }
-
+    public static  int delete(String ID){
+        String query = "DELETE HOADONDATHANG WHERE TENSANPHAM = ?";
+        return JDBC_Helper.updateTongQuat(ID);
+    }
     public static void main(String[] args) {
         // check các chức năng tại đây
         List<vPhieuHoaDon> listCheck = new ArrayList<>();
